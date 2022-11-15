@@ -21,7 +21,7 @@ toggle.addEventListener("click", toggleMenu, false)
 
 // Typing Animation using Typed JS
 var typed = new Typed(".type", {
-  strings: ["am a Software Engineer", "create things with code"],
+  strings: ["am a Software Engineer", "build things with code"],
   smartBackspace: true,
   startDelay: 1000,
   typeSpeed: 130,

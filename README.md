@@ -10,19 +10,19 @@ This is the second portfolio website I have built for myself. The website contai
 
 ## Home Page
 
-![Home Screenshot](./assets/img/screenshots/home.jpeg)
+![Home Screenshot](./assets/img/screenshots/home.png)
 
 ## About Page
 
-![About Screenshot](./assets/img/screenshots/about.jpeg)
+![About Screenshot](./assets/img/screenshots/about.png)
 
 ## Projects Page
 
-![Projects Screenshot](./assets/img/screenshots/projects.jpeg)
+![Projects Screenshot](./assets/img/screenshots/projects.png)
 
 ## Certificates Page
 
-![Certificates Screenshot](./assets/img/screenshots/certificates.jpeg)
+![Certificates Screenshot](./assets/img/screenshots/certificates.png)
 
 # Links
 
